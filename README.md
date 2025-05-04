@@ -56,5 +56,3 @@ Test Coverage
 Valid login (success scenario)
 Invalid login (incorrect username/password)
 Blank username/password validations
-
-Let me know if you want me to generate the actual GitHub README file or upload it to your repo.
